@@ -1,6 +1,8 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    cout << "Hello Parker, hello Samuel, hello Martin too!" << endl;
+    cout << "Hello, World!" << endl;
     return 0;
 }
